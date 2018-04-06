@@ -1,0 +1,4 @@
+1. What is mutation?
+->  Mutation is common side-effect in programming. To mutate a variable once it has been assigned means to alter it's value.
+    Example.  var demoVariable = 1;
+              demoVariable = 2;
